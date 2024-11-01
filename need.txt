@@ -1,0 +1,36 @@
+mountain
+fences
+umbrella
+beach
+house
+ice cream
+person
+table
+chair
+bottle
+plate
+helmet
+jetski
+book
+pillow
+barrel
+light
+cup
+cake
+glass
+cherry
+raspberry
+cupcake
+clothing
+camera
+hair
+wheel
+picture frame
+mirror
+watch
+ladder
+tablet
+candy
+shelf
+piano
+keyboard
